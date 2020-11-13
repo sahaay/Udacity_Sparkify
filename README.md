@@ -33,6 +33,7 @@ Also, tested various classifiers as baseline models without any hyperparameter t
 Finally, explored how to explain the model by looking at feature importances and its predictive power.
 
 A blog post detailing the approach and output is [here](http://kya-re.blogspot.com).
+
 The code used for executing this project is [here](https://github.com/sahaay/Udacity_Sparkify.git).
 
 
